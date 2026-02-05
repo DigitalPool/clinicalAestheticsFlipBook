@@ -7,8 +7,8 @@ body{
 }
 
 #canvas{
-	width: 1920px;
-	height: 1200px;
+	width: 1440px;
+	height: 900px;
 	margin: 100px auto;
 	position: relative;
 }
@@ -31,13 +31,13 @@ body{
 
 .sample-docs{
 	margin-top:20px;
-	width:1884px;
-	height:1200px;
+	width:1440px;
+	height:900px;
 }
 
 .sample-docs .page{
-	width:942px;
-	height:1200px;
+	width:1440px;
+	height:900px;
 	background:white;
 
 	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.2);
@@ -48,11 +48,11 @@ body{
 }
 
 .sample-docs .hard{
-	background-image:url(../pics/covers.jpg);
+	background-image:url(../pics/covers.png);
 }
 
 .sample-docs .p2{
-	background-position:-942px 0;
+	background-position:-720px 0;
 }
 
 .sample-docs .p28{
@@ -65,11 +65,11 @@ body{
 }
 
 .sample-docs .p41{
-	background-position:-1884px 0;
+	background-position:-1440px 0;
 }
 
 .sample-docs .p42{
-	background-position:-2826px 0;
+	background-position:-2160px 0;
 }
 
 .sample-docs .even .gradient{
