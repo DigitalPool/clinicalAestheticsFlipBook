@@ -3,7 +3,7 @@
 body{
 	margin:0;
 	padding:0;
-	overflow:hidden;
+	overflow: auto;
 }
 
 #canvas{
@@ -11,6 +11,7 @@ body{
 	height: 900px;
 	margin: 100px auto;
 	position: relative;
+	overflow: auto;
 }
 
 #book-zoom{
