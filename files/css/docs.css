@@ -11,7 +11,6 @@ body{
 	height: 900px;
 	margin: 100px auto;
 	position: relative;
-	overflow: auto;
 }
 
 #book-zoom{
